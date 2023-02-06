@@ -34,7 +34,6 @@ toponym = json_response["response"]["GeoObjectCollection"][
 coords1 = toponym['boundedBy']['Envelope']['lowerCorner']
 coords2 = toponym['boundedBy']['Envelope']['upperCorner']
 spn = get_spn(coords1, coords2)
-print(spn)
 new_spn = [str(random.uniform(0.0005, float(min(spn[0], '0.01')))),
            str(random.uniform(0.0005, float(min(spn[1], '0.01'))))]
 # Координаты центра топонима:
