@@ -1,0 +1,822 @@
+{
+  'response': {
+    'GeoObjectCollection': {
+      'metaDataProperty': {
+        'GeocoderResponseMetaData': {
+          'request': 'Думенко, 10',
+          'results': '10',
+          'found': '10'
+        }
+      },
+      'featureMember': [
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Краснодар, микрорайон Юбилейный, улица Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Краснодар, микрорайон Юбилейный, улица Думенко, 10',
+                  'postal_code': '350089',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Краснодарский край'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'муниципальное образование Краснодар'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Краснодар'
+                    },
+                    {
+                      'kind': 'district',
+                      'name': 'микрорайон Юбилейный'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Краснодар, микрорайон Юбилейный, улица Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Краснодарский край',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'муниципальное образование Краснодар',
+                        'Locality': {
+                          'LocalityName': 'Краснодар',
+                          'DependentLocality': {
+                            'DependentLocalityName': 'микрорайон Юбилейный',
+                            'Thoroughfare': {
+                              'ThoroughfareName': 'улица Думенко',
+                              'Premise': {
+                                'PremiseNumber': '10',
+                                'PostalCode': {
+                                  'PostalCodeNumber': '350089'
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10',
+            'description': 'микрорайон Юбилейный, Краснодар, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '38.91173 45.033126',
+                'upperCorner': '38.919941 45.038948'
+              }
+            },
+            'Point': {
+              'pos': '38.915836 45.036037'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ростовская область, Пролетарск, улица Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ростовская область, Пролетарск, улица Думенко, 10',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ростовская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Пролетарский район'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Пролетарск'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ростовская область, Пролетарск, улица Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ростовская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'Пролетарский район',
+                        'Locality': {
+                          'LocalityName': 'Пролетарск',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'улица Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10',
+            'description': 'Пролетарск, Ростовская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '41.706533 46.698615',
+                'upperCorner': '41.714743 46.704263'
+              }
+            },
+            'Point': {
+              'pos': '41.710638 46.701439'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ростовская область, Новочеркасск, улица Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ростовская область, Новочеркасск, улица Думенко, 10',
+                  'postal_code': '346400',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ростовская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'городской округ Новочеркасск'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Новочеркасск'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ростовская область, Новочеркасск, улица Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ростовская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'городской округ Новочеркасск',
+                        'Locality': {
+                          'LocalityName': 'Новочеркасск',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'улица Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10',
+                              'PostalCode': {
+                                'PostalCodeNumber': '346400'
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10',
+            'description': 'Новочеркасск, Ростовская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '40.086556 47.405582',
+                'upperCorner': '40.094767 47.411156'
+              }
+            },
+            'Point': {
+              'pos': '40.090661 47.408369'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ростовская область, Константиновск, улица Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ростовская область, Константиновск, улица Думенко, 10',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ростовская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Константиновский район'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Константиновск'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ростовская область, Константиновск, улица Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ростовская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'Константиновский район',
+                        'Locality': {
+                          'LocalityName': 'Константиновск',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'улица Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10',
+            'description': 'Константиновск, Ростовская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '41.076032 47.587224',
+                'upperCorner': '41.084243 47.592779'
+              }
+            },
+            'Point': {
+              'pos': '41.080138 47.590002'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ростовская область, Батайск, улица Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ростовская область, Батайск, улица Думенко, 10',
+                  'postal_code': '346889',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ростовская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'городской округ Батайск'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Батайск'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ростовская область, Батайск, улица Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ростовская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'городской округ Батайск',
+                        'Locality': {
+                          'LocalityName': 'Батайск',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'улица Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10',
+                              'PostalCode': {
+                                'PostalCodeNumber': '346889'
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10',
+            'description': 'Батайск, Ростовская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '39.682961 47.125435',
+                'upperCorner': '39.691171 47.131039'
+              }
+            },
+            'Point': {
+              'pos': '39.687066 47.128237'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ростовская область, Миллерово, улица Думенко, 10/2',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ростовская область, Миллерово, улица Думенко, 10/2',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ростовская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Миллеровский район'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Миллерово'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10/2'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ростовская область, Миллерово, улица Думенко, 10/2',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ростовская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'Миллеровский район',
+                        'Locality': {
+                          'LocalityName': 'Миллерово',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'улица Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10/2'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10/2',
+            'description': 'Миллерово, Ростовская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '40.370531 48.92125',
+                'upperCorner': '40.378742 48.926661'
+              }
+            },
+            'Point': {
+              'pos': '40.374637 48.923955'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ростовская область, Шахты, улица Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ростовская область, Шахты, улица Думенко, 10',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ростовская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'городской округ Шахты'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Шахты'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ростовская область, Шахты, улица Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ростовская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'городской округ Шахты',
+                        'Locality': {
+                          'LocalityName': 'Шахты',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'улица Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10',
+            'description': 'Шахты, Ростовская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '40.110909 47.804867',
+                'upperCorner': '40.11912 47.810399'
+              }
+            },
+            'Point': {
+              'pos': '40.115015 47.807633'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ростовская область, посёлок Весёлый, улица Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ростовская область, посёлок Весёлый, улица Думенко, 10',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ростовская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Весёловский район'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Весёловское сельское поселение'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'посёлок Весёлый'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ростовская область, посёлок Весёлый, улица Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ростовская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'Весёловский район',
+                        'Locality': {
+                          'LocalityName': 'посёлок Весёлый',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'улица Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10',
+            'description': 'посёлок Весёлый, Ростовская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '40.754723 47.082592',
+                'upperCorner': '40.762933 47.0882'
+              }
+            },
+            'Point': {
+              'pos': '40.758828 47.085396'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ростовская область, Донецк, переулок Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ростовская область, Донецк, переулок Думенко, 10',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ростовская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'городской округ Донецк'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Донецк'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'переулок Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ростовская область, Донецк, переулок Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ростовская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'городской округ Донецк',
+                        'Locality': {
+                          'LocalityName': 'Донецк',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'переулок Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'переулок Думенко, 10',
+            'description': 'Донецк, Ростовская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '40.010747 48.340983',
+                'upperCorner': '40.018958 48.346456'
+              }
+            },
+            'Point': {
+              'pos': '40.014852 48.34372'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Волгоградская область, Котельниково, улица Думенко, 10',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Волгоградская область, Котельниково, улица Думенко, 10',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Южный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Волгоградская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Котельниковский район'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Котельниковское городское поселение'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Котельниково'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'улица Думенко'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '10'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Волгоградская область, Котельниково, улица Думенко, 10',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Волгоградская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'Котельниковский район',
+                        'Locality': {
+                          'LocalityName': 'Котельниково',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'улица Думенко',
+                            'Premise': {
+                              'PremiseNumber': '10'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'улица Думенко, 10',
+            'description': 'Котельниково, Волгоградская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '43.158121 47.631309',
+                'upperCorner': '43.166331 47.636859'
+              }
+            },
+            'Point': {
+              'pos': '43.162226 47.634084'
+            }
+          }
+        }
+      ]
+    }
+  }
+}
